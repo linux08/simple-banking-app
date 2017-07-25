@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="masterModelStoreContainer" CdmEntityContainer="dataEntities">
+    <EntitySetMapping Name="bankcustomerinfoes">
+      <EntityTypeMapping TypeName="masterModel.bankcustomerinfo">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="sex" ColumnName="sex" />
+          <ScalarProperty Name="emailadress" ColumnName="emailadress" />
+          <ScalarProperty Name="account_number" ColumnName="account number" />
+          <ScalarProperty Name="accountbalance" ColumnName="accountbalance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

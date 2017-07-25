@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\bin\Debug\bankingapp.exe.config
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\bin\Debug\bankingapp.exe
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\bin\Debug\bankingapp.pdb
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\bin\Debug\EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\bin\Debug\EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\obj\Debug\bankingapp.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\obj\Debug\bankingapp.exe
+c:\users\david\documents\visual studio 2015\Projects\bankingapp\bankingapp\obj\Debug\bankingapp.pdb
